@@ -6,7 +6,7 @@ import { Greet } from "../wailsjs/go/main/App";
 
 document.querySelector("#app").innerHTML = `
     <img id="logo" class="logo">
-      <div class="result" id="result">Please enter your name below👇</div>
+      <div class="result" id="result">Please enter your name below broooo!👇</div>
       <div class="input-box" id="input">
         <input class="input" id="name" type="text" autocomplete="off" />
         <button class="btn" onclick="greet()">Greet</button>
